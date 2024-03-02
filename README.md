@@ -5,85 +5,32 @@
   BACK-END: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  
 </div>
 <div>
   INTELIGÊNCIA ARTIFICIAL: ____
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
 </div>
 <div>
   BANCO DE DADOS: _________________________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MysqL" alt="MysqL" width="40" height="40"/>&nbsp;
-  
 </div>
 <div>
-  BLOCKCHAIN: _______________________________
-  <img src="https://skillicons.dev/icons?i=solidity" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Ajnus/Ajnus/blob/main/png-transparent-ethereum-classic-computer-icons-cryptocurrency-symbol-symbol-miscellaneous-blue-angle-thumbnail-removebg-preview.png" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Ajnus/Ajnus/blob/main/metamask.png" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-</div>
-<div>
-  MOBILE DEVELOPMENT: ____________________
-  <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Ajnus/Ajnus/blob/main/react_native.png" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
-</div>
-<div>WEB DEVELOPMENT: __________
+  FRONT-END: __________
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=django" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
-<div>
-  MICROCONTROLLER PROGRAMMING: ______
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cpp" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
-</div>
-<div>
-  BACK-END DEVELOPMENT: __________________
-  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=django" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
-</div>
-<div>
-  FRONT-END DEVELOPMENT: __________
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=django" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
-</div>
-<div>
-  FULL STACK DEVELOPMENT: _________________
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
-  <img src="https://github.com/Ajnus/Ajnus/blob/main/react_native.png" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
-</div>
-<div>
 <div>
   API TOOLS: ___________________________________
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="40" height="40"/>
 </div>  
-OPERATIONAL SYSTEMS: _____________________
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://github.com/Ajnus/Ajnus/blob/main/800px-GNewSense_3_logo_with_lettering%2C_blue.svg.png" title="Gnewsense" alt="Gnewsense" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=windows" title="Windows" alt="Windows" width="40" height="40"/>
+<div>
+  OPERATIONAL SYSTEMS: _____________________
+    <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+    <img src="https://github.com/Ajnus/Ajnus/blob/main/800px-GNewSense_3_logo_with_lettering%2C_blue.svg.png" title="Gnewsense" alt="Gnewsense" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=windows" title="Windows" alt="Windows" width="40" height="40"/>
 </div>
 <div>
 DEPLOY TOOLS: _______________________________
