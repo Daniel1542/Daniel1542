@@ -2,32 +2,19 @@
 
 ## Minhas habilidades:
 <div>
-  Back-end: ____
-  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  BACK-END: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Ajnus/Ajnus/blob/main/assembly.png" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  
 </div>
 <div>
-  ARTIFICIAL INTELLIGENCE: _________________
-  <img src="https://skillicons.dev/icons?i=cpp" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  INTELIGÊNCIA ARTIFICIAL: ____
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
 </div>
 <div>
-  ALGORITHM ANALYSIS: _____________________
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</div>
-<div>
-  DATA SCIENCE: ______________________________
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-</div>
-<div>
-  DATABASES: _________________________________
-  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="ProstgreSQL" alt="ProstgreSQL" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  BANCO DE DADOS: _________________________________
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MysqL" alt="MysqL" width="40" height="40"/>&nbsp;
+  
 </div>
 <div>
   BLOCKCHAIN: _______________________________
