@@ -45,6 +45,6 @@ CONTROLE DE VERSIONAMENTO: ____
   <img src="https://skillicons.dev/icons?i=github" title="Github" alt="Github" width="40" height="40"/>
 </div>
 <div>
-SERVIÇO DE NUVEM: _____________
+SERVIÇO DE NUVEM: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
