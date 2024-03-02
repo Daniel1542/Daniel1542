@@ -11,81 +11,36 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
 </div>
 <div>
-  BANCO DE DADOS: _________________________________
+  BANCO DE DADOS: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MysqL" alt="MysqL" width="40" height="40"/>&nbsp;
 </div>
 <div>
-  FRONT-END: __________
+  FRONT-END: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 <div>
-  API TOOLS: ___________________________________
+  API TOOLS: ____
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>  
 <div>
-  OPERATIONAL SYSTEMS: _____________________
+  SISTEMAS OPERACIONAIS: ____
     <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
-    <img src="https://github.com/Ajnus/Ajnus/blob/main/800px-GNewSense_3_logo_with_lettering%2C_blue.svg.png" title="Gnewsense" alt="Gnewsense" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=windows" title="Windows" alt="Windows" width="40" height="40"/>
 </div>
 <div>
-DEPLOY TOOLS: _______________________________
+DEPLOY TOOLS: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </div>
 <div>
-VERSION CONTROL PLATFORMS: _____________
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>
+CONTROLE DE VERSIONAMENTO: ____
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" title="Github" alt="Github" width="40" height="40"/>
 </div>
 <div>
-AGILE MANAGEMENT: _________________________
-  <img src="https://github.com/Ajnus/Ajnus/blob/main/scrum_new.png" title="SCRUM" alt="SCRUM" width="40" height="40"/>
-</div> 
-.
-
-[![Top Langs](https://github-readme-stats-jam-ajna-soares-projects.vercel.app/api/top-langs/?username=Ajnus&theme=chartreuse-dark&langs_count=15&hide=Meson,Processing,Shell,PowerShell,Makefile,CMake,Forth&layout=donut&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)  (PUC's "fault" ¯\\_(ツ)_/¯)  ![Ajnus's GitHub stats](https://github-readme-stats-jam-ajna-soares-projects.vercel.app/api?username=ajnus&show=prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark)
-
-
-### My Gists:
-
-[![gists-readme](https://gists-readme.yizack.com/api/pin?user=Ajnus&id=3c5de034228987b7892fe3178210ce42&owner=true&theme=dark)](https://gist.github.com/Ajnus/3c5de034228987b7892fe3178210ce42)
-
-### Currently Coding:
-
-[![Hacker Rank](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=hackerRank_Codes&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/HackerRank_Codes) ___________ [![307222442-bb7bc28a-1b1b-4cdc-8ae8-b604939affb7](https://github.com/Ajnus/Ajnus/assets/8205907/4667786a-9c71-434d-b513-d14ea98abcf2)](https://www.hackerrank.com/profile/ajnasoares)
-
-### Project Repos:
-
-[![Dedão Wars](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=DEDAO-THUMB-WARS-Flutter-&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/DEDAO-THUMB-WARS-Flutter-) ___________ [![dedao wars(13)](https://github.com/Ajnus/Ajnus/assets/8205907/866c6850-7f1c-402d-8de1-02e98d2b2d8a)](https://www.youtube.com/watch?v=SRlWgwwjvo4)
-[![AutoBar Man](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=AUTOBAR_MAN_PROGRAMACAO_DE_MICROCONTROLADORES_ENG1419&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/AUTOBAR_MAN_PROGRAMACAO_DE_MICROCONTROLADORES_ENG1419) ___________ [![autobar man play(1)](https://github.com/Ajnus/Ajnus/assets/8205907/c6e5337e-ca52-4c81-a5d6-903078dd0907)](https://www.youtube.com/watch?v=PP6cPMQUdCA)
-[![Mythic+_Chain](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=MYTHIC_PLUS_CHAIN_BLOCKCHAIN_INF1305&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/MYTHIC_PLUS_CHAIN_BLOCKCHAIN_INF1305) ___________ [![mythic+chain PLAY](https://github.com/Ajnus/Ajnus/assets/8205907/f24c9862-00b8-4554-a909-04c2f41602de)](https://www.youtube.com/watch?v=lEQssWorXtc)
-[![The Forum](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=THE_FORUM_PROGRAMACAO_WEB_INF1407_T2&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/THE_FORUM_PROGRAMACAO_WEB_INF1407_T2) ___________ ![the forum(1)](https://github.com/Ajnus/Ajnus/assets/8205907/14b97144-81e1-4df7-b1b8-e7bc1ab03f63)
-[![The Blackjack](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=BLACKJACK_PROGRAMACAO_ORIENTADA_A_OBJETOS_INF1636&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/BLACKJACK_PROGRAMACAO_ORIENTADA_A_OBJETOS_INF1636) ___________ ![the blackjack](https://github.com/Ajnus/Ajnus/assets/8205907/0a714214-0516-49b5-93b2-b27bb8333185)
-[![PUC FIT](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=PUC_Fit&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/PUC_Fit) ___________ ![7 ezgif-5-044161a865](https://github.com/Ajnus/Ajnus/assets/8205907/c323a592-cda8-4f7e-9f70-3204f145faab)![6 ezgif-5-df752e28dc](https://github.com/Ajnus/Ajnus/assets/8205907/4c3fdfb9-42da-4ade-a885-ecebb4d409f4)
-[![LUDO](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=LUDO_PROGRAMACAO_MODULAR_INF1301&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/LUDO_PROGRAMACAO_MODULAR_INF1301) ___________ ![ludo(1)(1)](https://github.com/Ajnus/Ajnus/assets/8205907/2703e654-d111-47b8-92b7-67cdc42867e8)
-[![WoW Pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=WORLD_OF_WARCRAFT_PATHFINDER&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/WORLD_OF_WARCRAFT_PATHFINDER) ___________ ![path2](https://github.com/Ajnus/Ajnus/assets/8205907/bd34b6f0-efd0-4d81-baca-eaca3128ecba)
-[![Last Redemption](https://github-readme-stats.vercel.app/api/pin/?username=ajnus&repo=Last_Redemption&theme=vision-friendly-dark&show_owner=true)](https://github.com/Ajnus/Last_Redemption) ___________ ![4](https://github.com/Ajnus/Ajnus/assets/8205907/e77c0856-56b6-4c98-a45c-1ac08b497cd9)
-
-
-<!--
-**Ajnus/Ajnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+SERVIÇO DE NUVEM: _____________
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+</div>
