@@ -1,6 +1,6 @@
-# Sobre mim
+# DANIEL QUEIROZ
 
-## Minhas habilidades:
+## SKILLS:
 <div>
   FRONT-END: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -13,11 +13,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
 <div>
-  BANCO DE DADOS: ____
+  DATABASE: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MysqL" alt="MysqL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
 </div>
 <div>
   FRAMEWORKS: ____
@@ -29,13 +29,13 @@
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>  
 <div>
-  SISTEMAS OPERACIONAIS: ____
+  OPERACIONAL SISTEM: ____
     <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=windows" title="Windows" alt="Windows" width="40" height="40"/>
 </div>
 <div>
-  INTELIGÊNCIA ARTIFICIAL: ____
+  ARTIFICIAL INTELLIGENCE: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
 </div>
 <div>
@@ -43,12 +43,12 @@ DEPLOY TOOLS: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </div>
 <div>
-CONTROLE DE VERSIONAMENTO: ____
+VERSION CONTROL: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" title="Github" alt="Github" width="40" height="40"/>
 </div>
 <div>
-SERVIÇO DE NUVEM: ____
+CLOUD: ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
 
